@@ -20,7 +20,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 
 ### Links
-- Live Site URL: [](https://onyeka-aribeana.github.io/Capstone-Project-2/)
+- Live Site URL: [Sunnyside-landing-page](https://onyeka-aribeana.github.io/Capstone-Project-2/)
 
 ## My process
 It was a step by step process from each of us on this project. First we divided the project into sections for group members and then started working on each part ourselves.
